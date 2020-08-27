@@ -1,4 +1,4 @@
-const HomeController = require('./HomeController');
+const HomeController = require('./UserController');
 
 module.exports = {
     HomeController
