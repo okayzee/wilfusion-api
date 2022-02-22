@@ -1,3 +1,3 @@
 Wildfusions-api
 
-Demo API for wildfusions
+Demo API for Wildfusions
